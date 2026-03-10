@@ -29,4 +29,4 @@ counts = result[0].data.meas.get_counts()
 print(counts)
 plot_histogram(counts)
 
-Expected Output: {'0': ~500, '1': ~500}
+Expected Result: {'0': ~500, '1': ~500}
