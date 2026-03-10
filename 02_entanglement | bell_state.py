@@ -24,4 +24,4 @@ counts = result[0].data.meas.get_counts()
 print(counts)
 plot_histogram(counts)
 
-Expected Result: 00 and 11 only
+Expected Output: 00 and 11 only
