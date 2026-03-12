@@ -32,4 +32,4 @@ qiskit-quantum-fundamentals
 │   └── teleportation_ibm_hardware.py
 │
 ├── 06_quantum_teleportation
-│   └── teleportation_simulator.py
+    └── teleportation_simulator.py
