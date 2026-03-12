@@ -28,8 +28,8 @@ qiskit-quantum-fundamentals
 ├── 04_quantum_teleportation
 │   └── teleportation_simulator.py
 │
-└── 05_quantum_teleportation_hardware
+├── 05_quantum_teleportation_hardware
 │   └── teleportation_ibm_hardware.py
 │
-├── 06_quantum_teleportation
-    └── teleportation_simulator.py
+└── 06_
+    └──
